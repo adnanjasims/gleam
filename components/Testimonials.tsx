@@ -47,9 +47,13 @@ export function Testimonials() {
                   />
                 ))}
               </div>
-              <p className="mt-3 flex-1 text-sm leading-relaxed text-navy/85">
-                &ldquo;{review.text}&rdquo;
-              </p>
+              {review.text ? (
+                <p className="mt-3 flex-1 text-sm leading-relaxed text-navy/85">
+                  &ldquo;{review.text}&rdquo;
+                </p>
+              ) : (
+                <div className="mt-3 flex-1" aria-hidden />
+              )}
               <footer className="mt-4 text-sm font-semibold text-navy">
                 {review.name}
               </footer>

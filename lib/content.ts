@@ -225,6 +225,16 @@ export const reviewsSummary = {
 /** Customer reviews from GleamCo. Google Business Profile */
 export const testimonials = [
   {
+    name: "John Traish",
+    rating: 5,
+    text: "Had some mold growth on north side of my vinyl siding. I saw my neighbour getting theirs cleaned and asked for a quote for mine. Reasonable price and a proper clean of my whole house. Really like supporting young entrepreneurs and would recommend these guys to anyone",
+  },
+  {
+    name: "Ian Mackenzie",
+    rating: 5,
+    text: "",
+  },
+  {
     name: "Sandeep Agrawal",
     rating: 5,
     text: "Awesome people. Hassle-free service. Help the young folks!",
