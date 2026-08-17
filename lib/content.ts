@@ -4,7 +4,7 @@ export const brand = {
   tagline: "Home Services",
   fullName: "GleamCo Home Services",
   location: "Edmonton, Alberta",
-  phoneDisplay: "[Insert Phone Number]",
+  phoneDisplay: "+1-780-977-6822",
   emailDisplay: "gleampayments@gmail.com",
   hours: "Monday - Sunday · 8:00 AM - 6:00 PM",
 };
@@ -224,6 +224,11 @@ export const reviewsSummary = {
 
 /** Customer reviews from GleamCo. Google Business Profile */
 export const testimonials = [
+  {
+    name: "Jennifer Green",
+    rating: 5,
+    text: "Great price. We're very satisfied with GleamCo's window service. The technicians were extremely polite and willing to go the extra mile. I even received a lesson on how to clean organic matter from our siding and sills myself, when I asked the technician about it. I recommend being home during the service so you can give feedback, because to be fair, the technicians can't see what you see from inside the house. I will recommend GleamCo to family and friends.",
+  },
   {
     name: "John Traish",
     rating: 5,
