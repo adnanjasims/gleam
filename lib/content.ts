@@ -225,6 +225,21 @@ export const reviewsSummary = {
 /** Customer reviews from GleamCo. Google Business Profile */
 export const testimonials = [
   {
+    name: "Shannon Butler",
+    rating: 5,
+    text: "Great price. Isaac helped me with an emergency window clean up! I appreciate how he went out of his way to fit me into his busy schedule!!!",
+  },
+  {
+    name: "Judy Bauer",
+    rating: 5,
+    text: "Great price. I had my eavestroughs and downspouts cleaned by two young gentlemen, friendly and professional. They cleaned up the debris they removed and checked to see I was satisfied with their work. I would highly recommend them for the work they did for me.",
+  },
+  {
+    name: "Chris Griffin",
+    rating: 5,
+    text: "Reasonable price. Came by and offered window cleaning because they were working in my neighbourhood already. Showed up when they said they would, did and good job, and were fast. Would hire them again!",
+  },
+  {
     name: "Jennifer Green",
     rating: 5,
     text: "Great price. We're very satisfied with GleamCo's window service. The technicians were extremely polite and willing to go the extra mile. I even received a lesson on how to clean organic matter from our siding and sills myself, when I asked the technician about it. I recommend being home during the service so you can give feedback, because to be fair, the technicians can't see what you see from inside the house. I will recommend GleamCo to family and friends.",
